@@ -1,0 +1,27 @@
+/*git CMD
+
+cd  // change directory
+cd ..
+cd jonathan/document
+ls  //list all files in directory
+dir // if on windows shows files in directory
+
+step one
+git clone https://github.com/JonathanLGeorge/newGitTest.git
+
+now we can add stuff to the folders
+
+git status  //shows us files that may need to be added?
+
+git add // adds any changes or files by name example: add index.html
+
+git commit -m "mesage"
+
+git push
+git pull
+
+
+if stuck press
+esc 
+:wq
+*/
